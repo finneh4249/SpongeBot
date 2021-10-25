@@ -1,4 +1,4 @@
 {
     "token": "ODk5NzAwNjUxNTkwODExNjc4.YW2lhg.L4iria03VqnkNTJjnlKh0aqLgWI",
-    "Database": "mongodb+srv://kumis:aldiyar2007@cluster0.bgiqn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "Database": "mongodb+srv://kumis:@cluster0.bgiqn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 }
